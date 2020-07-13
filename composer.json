@@ -28,12 +28,6 @@
     "phpunit/phpunit": "~4.0",
     "satooshi/php-coveralls": "~0.6.1"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/mahony0/iyzipay-php"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "Iyzipay\\": "src/Iyzipay/"
